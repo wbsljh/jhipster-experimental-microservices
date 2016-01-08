@@ -1,6 +1,0 @@
-/home/bread/develop/jhipster-experimental-microservices/jhirouter/src/test/java/io/github/jhipster/router/web/rest/AuditResourceIntTest.java
-/home/bread/develop/jhipster-experimental-microservices/jhirouter/src/test/java/io/github/jhipster/router/web/rest/AccountResourceIntTest.java
-/home/bread/develop/jhipster-experimental-microservices/jhirouter/src/test/java/io/github/jhipster/router/web/rest/UserResourceIntTest.java
-/home/bread/develop/jhipster-experimental-microservices/jhirouter/src/test/java/io/github/jhipster/router/service/UserServiceIntTest.java
-/home/bread/develop/jhipster-experimental-microservices/jhirouter/src/test/java/io/github/jhipster/router/web/rest/TestUtil.java
-/home/bread/develop/jhipster-experimental-microservices/jhirouter/src/test/java/io/github/jhipster/router/security/SecurityUtilsUnitTest.java
